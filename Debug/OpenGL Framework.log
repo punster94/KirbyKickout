@@ -1,0 +1,21 @@
+﻿  game.cpp
+  keyProcess.cpp
+  object.cpp
+  openGLFramework.cpp
+openGLFramework.cpp(92): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+  openGLStuff.cpp
+  Player.cpp
+  PlayerManager.cpp
+  random.cpp
+  ScreenManager.cpp
+  SoundManager.cpp
+  Sprite.cpp
+  stateManager.cpp
+  Generating Code...
+soil.lib(SOIL.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+soil.lib(image_DXT.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'soil.lib(image_DXT.obj)' or at 'C:\Users\lhofer\Dropbox\School\Prog 1\C projects\PC Game\OpenGL Framework\Debug\vc90.pdb'; linking object as if no debug info
+soil.lib(image_helper.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'soil.lib(image_helper.obj)' or at 'C:\Users\lhofer\Dropbox\School\Prog 1\C projects\PC Game\OpenGL Framework\Debug\vc90.pdb'; linking object as if no debug info
+soil.lib(SOIL.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'soil.lib(SOIL.obj)' or at 'C:\Users\lhofer\Dropbox\School\Prog 1\C projects\PC Game\OpenGL Framework\Debug\vc90.pdb'; linking object as if no debug info
+soil.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'soil.lib(stb_image_aug.obj)' or at 'C:\Users\lhofer\Dropbox\School\Prog 1\C projects\PC Game\OpenGL Framework\Debug\vc90.pdb'; linking object as if no debug info
+  OpenGL Framework.vcxproj -> C:\Users\lhofer\Dropbox\School\Prog 1\C projects\PC Game\OpenGL Framework\Debug\OpenGL Framework.exe
+  OpenGL Framework.vcxproj -> C:\Users\lhofer\Dropbox\School\Prog 1\C projects\PC Game\OpenGL Framework\Debug\OpenGL Framework.pdb (Full PDB)
